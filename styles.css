@@ -6,6 +6,10 @@ body{
     width: 35%;
     margin-top: 30px;
 }
+#im1{
+    width:70px;
+    height: 70px;
+}
 #f1{
     width: 0px;
     border-bottom:15px solid rgb(17,17,17);

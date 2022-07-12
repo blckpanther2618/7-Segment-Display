@@ -133,7 +133,7 @@ function main()
      {
           //abgfc
           clear();
-          A();B();G();C();F();
+          A();B();G();C();F();D();
      }
      else{
         clear();
